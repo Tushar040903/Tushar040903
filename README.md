@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=FF4B2B&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Tushar+Bhardwaj!;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision+%7C+NLP+Enthusiast;Building+Intelligent+Systems+%F0%9F%A7%A1;Let's+Decode+Intelligence!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=FF4B2B&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Tushar+Bhardwaj!;Machine+Learning+%7C+Deep+Learning+Enthusiast;Computer+Vision+%7C+NLP+Builder+;Building+Intelligent+Systems+%F0%9F%A7%A1;Let's+Decode+Intelligence!">
 </p>
 
 <p align="center">
